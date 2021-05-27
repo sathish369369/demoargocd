@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: helm-guestbook
-    repoURL: https://github.com/argoproj/argocd-example-apps
+    repoURL: https://github.com/sathish369369/demoargocd.git
     targetRevision: master
   syncPolicy:
     automated: {}
